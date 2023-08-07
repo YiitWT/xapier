@@ -37,7 +37,7 @@ NPM                     |  Licance   |    Discord
 
 | Parameter |   Args   | Description                |
 | :-------- | :------- | :------------------------- |
-| `-c` ` ` `-r & -a`| `github.com/user/repo <optional: -r> <optional: -a> ` | *Create app's version. |
+| `-c` `-r` `-a`| `github.com/user/repo <optional: -r> <optional: -a> ` | *Create app's version. |
 | `-u` | `1.0.1` | *Update your app's version. (Default version 1.0.0) |
 
 #### How it works
